@@ -1,18 +1,12 @@
 * [10K1Box Project](http://membres.lycos.fr/journaldebord/forum/phpBB2/index.php) very interesting hardware mods for the **SBLive**
 * [2181 Audio DSP Dev Kit Price Set to Rise](http://slashdot.org/article.pl?sid=02/01/28/2139258) price hikes courtesy **Analog Devices**
-* [2-Dimensional Spatialization Of Sound](http://www.cyberus.ca/~karen/spatial/) takes monaural sound signal and processes it to create a binaural signal 
-* [2D Spatialization: A Linux Implementation](http://www.ne.jp/asahi/linux/timecop/) "Linux/X11 port of the 3D spatializer library from the [CRC](http://www.crc.ca/)" 
-* [*2raw](http://terrorpin.net/~ben/docs/alt/music/converters/) C code for Ben Collver's utilities to convert **PAT** -format soundfiles, **IT** samples, and **XI** instruments to **RAW** -format soundfiles 
 * [3MU](ftp://mustec.bgsu.edu/pub/linux/3MU.tar.gz) a TB303 bassline emulator;
 * [4Front](http://www.4front-tech.com) offers commercially available sound drivers for UNIX/Linux 
-* [56K Algorithm Development](http://shoko.calarts.edu/~glmrboy/musicdsp/sourcecode/) a DSP software development kit for the **Turtle Beach Fiji/Pinnacle** cards, from Robert Bristow-Johnson 
 * [64 Studio: Building a native 64-bit creative distribution](http://www.freesoftwaremagazine.com/free_issues/issue_10/c64_studio_project/) another fine article from Daniel James 
 * [64 Studio](http://64studio.com/) 64-bit audio-optimized **Debian** -based Linux distribution from Daniel James and Free Ekanayaka. 
 * [64 Studio](http://64studio.com/) Daniel James's "collection of software for digital content creation on x86_64 hardware... based on the pure 64-bit port of Debian GNU/Linux" 
 * [8Hz-MP3](http://www.8hz.com/mp3/) a free MPEG audio encoder 
 * [9 Lieder](http://www.rumford.de/9lieder.html) music from Wolfgang Woehl and friends, made with help from **Ardour** , **JAMin** , and **LADSPA**
-* [AAC at 128kbps Public Listening Test](http://rarewares.hydrogenaudio.org/test/aac128test/presentation.html) an on-line listening test to "... find what encoder performs best encoding AAC at 128kbps CBR" 
-* [AAF](http://www.aafassociation.org/) is the **Advanced Authoring Format** , a cross-platform multimedia file format for easy exchange of digital media and metadata 
 * **ABC**
 * [Abcde](http://www.hispalinux.es/~data/abcde.php) front-end for _cdparanoia_ , _wget_ , _cd-discid_ , _id3_ , and any MP3 encoder 
 * [ABC](http://abcnotation.org.uk/) is "...a language designed to notate tunes in an ascii format" ( _This page is the main resource for_ **abc** - _related packages_ ) 
@@ -28,7 +22,6 @@
 * [ACCCI](http://www.codemist.co.uk/AmsterdamCatalog/) John Gather's Amsterdam Catalog of Csound Computer Instruments (version 1.1). 
 * [ACCCI](http://www.music.buffalo.edu/hiller/accci/) John Gather's Amsterdam Catalog of Csound Computer Instruments 
 * **Accompaniment & Practice Software**
-* [ace](http://www.atte.dk/ace/) command-line MIDI splitter/processor, performance software from Atte Andre Jensen 
 * [A Cellular Approach for Modeling Room Acoustics](http://home1.gte.net/dhillos/camra/index.html) a paper from Navdeep S. Dhillon 
 * [Acer Travelmate 722TX Setup For Linux](http://ls7-www.cs.uni-dortmund.de/~kohler/software/AcerTravelmate/) includes essential information on sound setup 
 * [Achieving Low-Latency Response Times Under Linux](http://linux.oreillynet.com/pub/a/linux/2000/11/17/low_latency.html) a guide for the perplexed... 
@@ -40,11 +33,7 @@ a combined apps list and mini-tutorial on using Linux for audio production.
 * [AdLib-S3M Player](http://bisqwit.iki.fi/source/fmengineqb.html) example program for **QuickBASIC**
 * [AdLib-S3M Player](http://oktober.stc.cx/src/index/fmengineqb) example program for **QuickBASIC**
 * [Advanced Sound Daemon](http://asd.sourceforge.net/) project to supply a drop-in replacement for **EsounD**
-* [Aeolus](http://users.skynet.be/solaris/linuxaudio/) Fons Adriaensen's fabulous pipe organ synthesizer 
-* [Aeolus](http://users.skynet.be/solaris/linuxaudio) version 0.6.6 is out at last 
 * [Aeolus](http://www.kokkinizita.net/linuxaudio) Fons Adriaensen's fabulous pipe organ synthesizer 
-* [AFsp](http://www.tsp.ece.mcgill.ca/Docs/Software/AFsp/AFsp.html) audio-file signal processing from **TSP Labs** , includes LPC analysis/synthesis package 
-* [AFsp/TSP](http://www-mmsp.ece.mcgill.ca/Documents/Software/index.html) audio signal processing suite, includes LPC analysis/synthesis package 
 * [Aglaophone](http://thermal.cnde.iastate.edu/~sdh4/aglaophone/) "...a system of interconnectable modules for the recording, processing, and playback of real-time audio" 
 * [Aglaophone](http://www.tam.cornell.edu/~sdh4/aglaophone/) "...a system of interconnectable modules for the recording, processing, and playback of real-time audio" 
 * [AGNULA/DeMuDi + Pd (Pure Data) Installation Notes](http://umatic.nl/workshop/demudi_install.txt) instructions from Derek Holzer and friends 
@@ -555,7 +544,6 @@ Effects Processors
 * [EsounD Controller](http://www.captainblood.org/) shell script for managing the **EsounD** server 
 * [EsounD](http://www.tux.org/~ricdude/EsounD.html) the Enlightened Sound Daemon, "can mix several audio streams into one device" 
 * [EsounD](http://www.tux.org/~ricdude/EsounD.html) the Enlightened Sound Daemon does network audio too 
-* [ESS1868 Plug and Play Soundcard](http://www.netspace.net.au/~bmiller/linux/ess1868.html) Brian Miller's page 
 * [ESS1868 PnP](http://www.ozemail.com.au/~gedau/resources.html#ESS) card set-up information from George Dau 
 * **ESS18n8**
 * [ESS Maestro 2E Linux Driver for ALSA](http://home.t-online.de/home/Braun_Homburg/essm2ee.html) from Matthias Braun 
@@ -966,7 +954,6 @@ JACK | Documentation | Mailing Lists | Other Sound+MIDI Pages | OS Emulation
 * [KarmaPod](http://dto.freeshell.org/notebook/KarmaPod.html) ultracool custom Linux audio workstation from David O'Toole 
 * [Kasound](http://sourceforge.net/projects/kasound/) Marc Brooker's GUI for defining the **ALSA** .asoundrc file, requires up-to-date **KDE**
 * [kbdz](http://sourceforge.net/projects/nahlwe/) transforms USB PC keyboards/mice into MIDI controllers 
-* [KBlade](http://membres.lycos.fr/linzeus/kblade/) a **KDE** front-end for **BladeEnc**
 * [KCompact/K25Strip](http://www-lehre.inf.uos.de/~mhalbrue/) Linux utilities for the **Kurzweil** K2x00 samplers 
 * [KDE Radio](http://linux.perlak.com/project.php?prj_name=kderadio) **KDE** program to control **Video4Linux** radio cards 
 * [Keen Little Rabbit Ears](http://www.matthias-nutt.de/sound/keenlittlerabbitears/) simple ear-training program, requires **Perl/Tk**
@@ -992,7 +979,6 @@ JACK | Documentation | Mailing Lists | Other Sound+MIDI Pages | OS Emulation
 * [kluppe](http://kluppe.klingt.org) version 0.5.2 now available for download 
 * [KMidimon](http://kmetronome.sourceforge.net/kmidimon/) MIDI data monitor from Pedro Lopez-Cabanillas 
 * [KMidiTracker](http://www.monasteriomono.org/programs/kmiditracker/) excellent tracker-style MIDI sequencer from David Moreno Montero 
-* [Kmp3te](http://membres.lycos.fr/laydier/kde.html) program for viewing and editing tags to MP3 files 
 * [Kontroll](http://tapas.affenbande.org/?page_id=42) MIDI utility to generate controller messages from the mouse position, more software from Florian Schmidt 
 * [Kover](http://lisas.de/kover/) simple **KDE** utility for creating inserts for CD jewel boxes 
 * [KPE80](http://www.speech.cs.cmu.edu/comp.speech/Section5/Synth/klatt.kpe80.html) Klatt speech synthesis GUI 
@@ -1888,7 +1874,6 @@ _See also the_ **Soundfile Editors** _section. Some modern editors include
 * [Setting Up A Multitrack Audio Recording Studio](http://www.linuxjournal.com/article.php?sid=4814) Alex Heizer describes a basic Linux home recording system 
 * [sfArkXTc](http://melodymachine.com/) at last, a native Linux decompressor for **sfArk** -compressed SoundFont files 
 * [SFS](http://www.phon.ucl.ac.uk/resource/sfs/) Speech Filing System, excellent set of X-based and command-line tools (see FTP archive for UNIX/Linux versions) 
-* [sfubar-3](http://terrorpin.net/~ben/docs/alt/music/soundfont/) command-line SoundFont2/WAV/AIFF editor, from Ben Collver 
 * [sfubar](http://freepats.opensrc.org/tools/) command-line SoundFont2/WAV/AIFF editor, from Ben Collver [ _2007_ ] 
 * [SFVbm](http://www.floot.demon.co.uk/sfvbm/index.html) **X** front-end for creating and manipulating virtual bank files for Creative Labs AWE32/64 soundcards 
 * **SGI**
@@ -2107,7 +2092,6 @@ Still on hiatus here, but I have done some updating and housecleaning. The
 * [Subvert Audio](http://subvertaudio.sourceforge.net/index.htm) Niall Moody's "... music program designed to try and stimulate creativity in the user" 
 * [SUMOVER](http://mediatools.cs.ucl.ac.uk/nets/mmedia/) formerly the **Robust Audio Tool** , open-source streaming audio and conferencing software from [UCL](http://www.cs.ucl.ac.uk/)
 * **Sun**
-* [SunPlay](http://shoko.calarts.edu/~tre/sunplay_c.html) C code for threaded sound playback for Solaris, from [Tom Erbe](http://shoko.calarts.edu/~tre)
 * [SuperCollider3](http://supercollider.sourceforge.net) a Linux port of the realtime audio server and object-oriented sound synthesis language 
 * [SuperCollider3](http://supercollider.sourceforge.net) James McCartney's famous realtime audio server and object-oriented sound synthesis language 
 * [SuperCollider3 Wiki](http://swiki.hfbk-hamburg.de:8888/MusicTechnology/6) 
@@ -2263,7 +2247,6 @@ treasures tucked away in the [LAA
 * **Trommler**
 * [Trommler](http://muth.org/Robert/Trommler/) excellent drum machine with nice [Gtk](http://www.gtk.org) interface 
 * [TSE3 Library](http://TSE3.sourceforge.net) open-source MIDI sequencer engine in C++ 
-* [TSP Lab](http://www.tsp.ece.mcgill.ca/software/) general DSP and filtering packages 
 * [tuneit](http://delysid.org/tuneit.html) command-line instrument tuner for **ALSA** and **JACK** , from Mario Lang 
 * [tuneroid](http://www.uid0.sk/zyzstar/?tuneroid) instrument tuner for **KDE**
 * **Tuners**
@@ -2285,8 +2268,6 @@ treasures tucked away in the [LAA
 * [UADE](http://zakalwe.fi/uade/) is the "Unix Amiga Delitracker Emulator" (it does more than just play MODs!) 
 * [Ubuntu Studio](http://ubuntustudio.org/) "A multimedia creation flavor of **Ubuntu** ". 
 * [uCapps](http://www.ucapps.de) Thorsten Klose's great site dedicated to DIY MIDI hardware developed under Linux 
-* [Ultimate TOS Software Index](http://membres.lycos.fr/falkweb/utsi.htm) includes a hefty section of audio & MIDI programs 
-* [Ultimate TOS Software Index](http://membres.lycos.fr/falkweb/utsi.htm) includes a hefty section of audio & MIDI programs  [Hatari](http://hatari.sourceforge.net/) is another Atari emulation system, but it utilizes technology from the **UAE** project. 
 * [UltiMusE-LX](http://hometown.aol.com/knudsenmj/myhomepage/umuselx.htm) music composition via standard notation and MIDI 
 * [Ultramaster Juno-6](http://juno6.gruftie.com/) software emulation of the classic **Roland** analog synth 
 * [UltraMixer](http://www.ultramixer.com) very cool virtual DJ mixing software, requires **Java**
@@ -2428,7 +2409,6 @@ with Linux applications your choices are limited to certain cards from
 * [XEMO](http://www.xemo.org) is a "...vision of an integrated composition environment for the analysis, notation and composition of music" 
 * [Xforge](http://www.hut.fi/~phonkane/xforge/) a new soundfile editor project for X11 and **Motif/LessTif**
 * [Xforge](http://www.hut.fi/~phonkane/xforge/) a new soundfile editor project for X11 and **Motif/LessTif** [ _2001_ ] 
-* [xgmc](http://mitglied.lycos.de/gsohler/linux/xgmc/) more than just a front-end for **gmc** , it's a "...simple hierarchical MIDI sequencer player and editor..." that can create MIDI files from MP3s 
 * [Xgmod](http://www.nyx.net/~arobinso/xgmod.html) MOD player in **X** and ncurses versions 
 * [xhippo](http://www.gnu.org/software/xhippo/) a generic playlist manager for a variety of UNIX sound players and formats 
 * [xine](http://xinehq.de) a most excellent multiformat audio/video player 
@@ -2486,7 +2466,6 @@ with Linux applications your choices are limited to certain cards from
 * [Zinf](http://www.zinf.org/) simple powerful audio player formerly known as **FreeAMP** , supports **MP3** , **Ogg/Vorbis** , **WAV** and CD audio, **SHOUTcast/Icecast** HTTP streaming 
 * [Zoltrix Nightingale S/PDIF](http://www.hoxnet.com/zoltrix/) a guide to modifying the hardware, from Abhijit Dasgupta 
 * [Zonavar's Unix Audio Hardware/Software Compendium](http://lios.apana.org.au/~zonavar/unix_audio.html) put together by Craig Dewick  
-* [Zsid](http://membres.lycos.fr/vpenne/Zsid/) a **C64** music player with [FLTK](http://fltk.easysw.com) interface 
 * [Zsid](http://www.cpt.univ-mrs.fr/~penne/Zsid/) a **C64** music player with [FLTK](http://fltk.easysw.com) interface 
 * [Ztalk](http://www.starfleet.com/liem/work/ztalk.html) low-bandwidth voice communication over TCP/IP networks 
 * [ZynAddSubFX](http://zynaddsubfx.sourceforge.net/) an impressive new softsynth from Paul Nasca in Romania 
