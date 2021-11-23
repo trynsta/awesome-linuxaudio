@@ -207,7 +207,6 @@ benjamin_p_jung-2.png)](http://www.xmms.org)
 * [Berklee Shares](http://www.berkleeshares.com/) free music lessons from the [Berklee College of Music](http://www.berkleeshares.com/)
 * [Best Soundcard For DJing With Linux](http://www.openjay.org/modules.php?name=News&file=article&sid=88) poll results at **OpenJay.org**
 Be sure to check out Hans Fugal's [LAM](http://lam.fugal.net), the wonderful
-* [BGM](http://www.tycho.com/bgm/) a background music player for PBX systems 
 * [Big Ears](http://www.ossmann.com/bigears/) an on-line ear-training utility, requires a **Java** -enabled browser 
 * [BINARS](http://binars.sourceforge.net/) "an open-source sequencer for Linux, ALSA, and GNOME", from Michael Ashton 
 * [BINARS](http://binars.sourceforge.net/) "an open-source sequencer for Linux, ALSA, and GNOME", from Michael Ashton [2001] 
@@ -220,8 +219,6 @@ Bless 'em all.
 * [BLOP](http://blop.sourceforge.net/) Band-limited oscillator **LADSPA** plugins from Mike Rawes. 
 * [blue](http://blue.kunstmusik.com/) Feature-rich environment for Csound, from Steven Yi. 
 * [blue](http://csounds.com/stevenyi/) _the_ composition environment for **Csound** and **Java** , from Steven Yi 
-* [Blues Box](http://hit.tweakdsl.nl/hikikomori/) a collection of blues and rock rhythm patterns for **Hydrogen**
-* [BoChord](http://home.iae.nl/users/hbaur/dl/) a chord typesetting utility 
 * [Bol Processor](http://bolprocessor.sourceforge.net/) sources are now open, good news from Bernard Bel and Anthony Kozar 
 * [Bol Processor](http://bolprocessor.sourceforge.net/) Sources are now open, good news from Bernard Bel and Anthony Kozar. 
 * [Bomb](http://draves.org/bomb/) an interactive a-life "visual-musical" instrument 
@@ -279,10 +276,8 @@ ccrma.png)](http://ccrma.stanford.edu/planetccrma/software/)
 * [Cdrecord](http://cdrecord.berlios.de/old/private/cdrecord.html) CD/DVD recording for Linux, essential software from Jorg Schilling 
 * [cdred](http://cdred.sourceforge.net) driver for remote audio CDs, from Hector Escolar Garcia 
 * [cdr](http://mikehardy.net/cdr/) "Create/Duplicate/Rip" front-end for ripping and encoding audio from CD 
-* [cdrom_speed](http://dmpc.dbp.fmph.uniba.sk/~krivanek/cdrom_speed/) lets the user decrease CD-ROM drive speed, "...especially suitable for playing MP3's from your CD-ROM..." 
 ### CD Technology & Linux
 * **CD Technology & Linux:** **Note:** _As of December 2005 I no longer list CD players. Here at Studio Dave I use[Xmcd](http://www.amb.org/xmcd/). [AlsaPlayer](http://www.alsaplayer.org) and [XMMS](http://www.xmms.org) also play CD audio tracks. Consult the listings on [Freshmeat](http://freshmeat.net) for an up-to-date catalog of CD players for Linux._
-* [cdwrite](ftp://www.ibiblio.org/pub/Linux/utils/disk-management/) CD writing software; a hardware compatibility list can be found [here](http://gnupln8.gnuplanet.com/cdwrite/)
 * [cdwrite](ftp://www.ibiblio.org/pub/Linux/utils/disk-management/) more CD writing software 
 * **Cecilia**
 * [Cecilia4](http://code.google.com/p/cecilia4/) Powerful composition/processing environment in Python. 
@@ -324,7 +319,6 @@ choices are limited to certain cards from [RME](http://www.rme-audio.com/),
 * [CMask](http://www.bartetzki.de/en/software.html) Andre Bartetzki's stochastic score generator for Csound. 
 * [CMask](http://www.kgw.tu-berlin.de/~abart/CMaskMan/CMask-Manual.htm) Csound score generation environment 
 * [CMI8338/8738 Driver](http://www.cmedia.com.tw/edl8738.htm) official Linux drivers from **C-Media**
-* [Cmix](http://silvertone.princeton.edu/winham/cmix.html) is from [Paul Lansky](http://silvertone.princeton.edu/~paul/) and the [Princeton Sound Kitchen](http://silvertone.princeton.edu/winham/PSK/)
 * [CMT](http://www.cs.cmu.edu/afs/cs.cmu.edu/project/music/web/cmt/unix/cmt.tar.Z) Carnegie-Mellon MIDI Toolkit (includes the **_adagio_** language) 
 * [cmusic](http://crca-www.ucsd.edu/cmusic/cmusic.html) for **Sun** machines is here 
 * [cmusic](http://crca-www.ucsd.edu/cmusic/cmusic.html) for the **NeXT** is here 
@@ -1955,7 +1949,6 @@ small.png)](http://jackaudio.org) [![](images/oss-
 * [Snuggles](http://www.ibiblio.org/pub/Linux/apps/sound/editors/) _curses_ -based WAV/MP3 editor 
 * [Snuggles](http://www.ibiblio.org/pub/Linux/apps/sound/editors/) _curses_ -based WAV/MP3 editor [ _2000_ ] 
 * [SoftSound Ltd](http://www.softsound.com/) high-quality audio and speech codecs [Shorten](http://www.softsound.com/Shorten.html) and [ATELP](http://www.softsound.com/ATELP.html)
-* [Software from the Princeton Sound Kitchen](http://silvertone.princeton.edu/winham/PSK) offerings from [Paul Lansky](http://silvertone.princeton.edu/~paul/) and crew 
 Software Sound Synthesis & Music Composition Packages
 Software Synthesis & Music Composition | Soundfile Editors | Music Notation |
 * [SoftWerk](http://softwerk.sourceforge.net) a MIDI sequencer from Paul Davis, based on the design of the [Doepfer Schaltwerk](http://www.doepfer.com/swe.htm) [2000] 
